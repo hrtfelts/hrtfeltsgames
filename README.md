@@ -1,1 +1,1 @@
-(https://hrtfelts.github.io/paper/ "Paper IO 2")
+[I'm an inline-style link](https://hrtfelts.github.io/paper/)
